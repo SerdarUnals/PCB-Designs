@@ -1,2 +1,11 @@
-# PCB-Designs
-A collection of professional PCB designs, including shields, breakout boards, and complex hardware projects developed with Altium Designer.
+# 🛠 PCB Designs Collection
+
+This repository contains professional-grade hardware designs, focusing on multilayer PCB layouts, signal integrity, and modular electronics.
+
+## 📂 Projects
+
+| Project | Tools Used | Status |
+| :--- | :--- | :--- |
+| **I2C Shield** | Altium Designer | ✅ Completed |
+| *More Coming Soon* | - | ⏳ In Progress |
+
