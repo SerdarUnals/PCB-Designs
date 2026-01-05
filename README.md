@@ -7,5 +7,6 @@ This repository contains professional-grade hardware designs, focusing on multil
 | Project | Tools Used | Status |
 | :--- | :--- | :--- |
 | **I2C Shield** | Altium Designer | ✅ Completed |
+| **4 Channel Opto Relay Module** | Altium Designer | ✅ Completed |
 | *More Coming Soon* | - | ⏳ In Progress |
 
